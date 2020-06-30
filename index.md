@@ -9,3 +9,5 @@ blablabla wichtiger Text blablabla wichtiger Text blablabla wichtiger Text blabl
 As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Black_from_a_camera.jpg"/>
